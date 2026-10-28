@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=shritijjaiswal27-collab&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shritijjaiswal27-collab&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shritijjaiswal27-collab&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=shritijjaiswal27-collab&icon=0&color=12)](https://visitcount.itsvg.in)
 
